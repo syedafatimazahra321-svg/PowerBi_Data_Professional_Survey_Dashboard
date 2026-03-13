@@ -19,7 +19,5 @@ This project analyzes the Data Professional Survey dataset using Power BI to exp
 * Excel
 * Data Visualization
 
-## Dashboard Preview
 
-![Dashboard](Dashboard Data Project.PNG)
 
